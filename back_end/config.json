@@ -1,0 +1,13 @@
+{
+    "black_ip": [
+        "10.0.0.1"
+    ],
+    "white_ip": [
+        "192.168.1.1"
+    ],
+    "black_threshold": 0.0,
+    "packet_batch_size": 50,
+    "pcap_result_path": "C:\\Users\\41652\\Desktop\\mtd\\pcap_analysis_result.json",
+    "log_path": "C:\\Users\\41652\\Desktop\\mtd\\log.json",
+    "port": 8081
+}

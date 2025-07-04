@@ -1,0 +1,2 @@
+from .xgboost_classifier import XGBoosterClassifier
+from .cnn_classifier import CNNClassifier
